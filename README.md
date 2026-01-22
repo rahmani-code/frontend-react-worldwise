@@ -1,12 +1,12 @@
 # 🌍 WorldWise — A Travel Tracking App
 
-![WorldWise Preview](./public/preview.png)
 
 
 WorldWise is a **React-based travel tracking application** that allows users to record cities they have visited around the world, add notes for each location, and visualize them on an interactive map.
 
 This project was built as a **hands-on learning project** to gain deeper experience with **React Router**, **Context API**, and modern React development patterns.
 
+![WorldWise Preview](./public/preview.png)
 
 ---
 
